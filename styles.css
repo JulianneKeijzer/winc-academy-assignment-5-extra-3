@@ -1,0 +1,74 @@
+main, footer, nav {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.2em;
+}
+
+header {
+    background-color: peachpuff;
+    border: 5px ridge  peru;
+    padding: 10px;
+    margin: 20px;
+}
+
+main {
+    background-color: peachpuff;
+    border: 3px ridge peru;
+    padding: 10px;
+    margin: 20px;
+}
+
+footer {
+    background-color: peachpuff;
+    border: 3px ridge peru;
+    padding: 10px;
+    margin: 20px;
+}
+
+nav {
+    background-color: peachpuff;
+    border: 3px ridge peru;
+    padding: 10px;
+    margin: 20px;
+}
+
+.center-title {
+    margin: 0 auto;
+    width: 500px;
+}
+
+.image-style {
+    border: 2px solid peru;
+}
+
+.titel1 {
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:peru;
+    font-weight: bolder;
+}
+
+.titel2 {
+    font-size:16px;
+    color:peru;
+}
+
+.tekst {
+    font-size: 14px;
+    color:peru;
+}
+
+.navigation-links li {
+    display: inline;
+    margin: 175px;
+    font-size: 14px;
+    color:peru;
+    font-weight: lighter;
+}
+
+.linkstyle {
+    font-size: 14px;
+    color:peru;
+    font-weight:lighter;
+    display: inline;
+    margin:740px;
+}
